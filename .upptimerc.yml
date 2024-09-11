@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Personal Website
-    url: https://www.bertel.dk
+    url: https://bertel.dk
   - name: Ulobby Website
     url: https://www.ulobby.eu
   - name: Ulobby App
