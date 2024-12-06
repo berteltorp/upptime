@@ -40,19 +40,19 @@
     "url": "https://ulobby.app",
     "icon": "https://icons.duckduckgo.com/ip3/ulobby.app.ico",
     "slug": "ulobby-app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1022,
-    "timeDay": 482,
-    "timeWeek": 1024,
-    "timeMonth": 1261,
-    "timeYear": 1022,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1184,
+    "timeDay": 8063,
+    "timeWeek": 2851,
+    "timeMonth": 1725,
+    "timeYear": 1184,
     "dailyMinutesDown": {
-      "2024-12-06": 0
+      "2024-12-06": 9
     }
   }
 ]
