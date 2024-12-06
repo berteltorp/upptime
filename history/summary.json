@@ -40,7 +40,7 @@
     "url": "https://ulobby.app",
     "icon": "https://icons.duckduckgo.com/ip3/ulobby.app.ico",
     "slug": "ulobby-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 1024,
     "timeMonth": 1261,
     "timeYear": 1022,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-06": 0
+    }
   }
 ]
