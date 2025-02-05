@@ -22,18 +22,20 @@
     "url": "https://www.ulobby.eu",
     "icon": "https://icons.duckduckgo.com/ip3/www.ulobby.eu.ico",
     "slug": "ulobby-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 315,
-    "timeDay": 734,
-    "timeWeek": 304,
-    "timeMonth": 269,
-    "timeYear": 315,
-    "dailyMinutesDown": {}
+    "time": 314,
+    "timeDay": 412,
+    "timeWeek": 277,
+    "timeMonth": 263,
+    "timeYear": 314,
+    "dailyMinutesDown": {
+      "2025-02-05": 0
+    }
   },
   {
     "name": "Ulobby App",
