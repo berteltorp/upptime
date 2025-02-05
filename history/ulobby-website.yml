@@ -1,7 +1,7 @@
 url: https://www.ulobby.eu
-status: up
-code: 200
-responseTime: 383
-lastUpdated: 2025-02-05T12:47:07.036Z
+status: down
+code: 429
+responseTime: 113
+lastUpdated: 2025-02-05T13:51:45.808Z
 startTime: 2024-09-11T04:40:14.399Z
 generator: Upptime <https://github.com/upptime/upptime>
