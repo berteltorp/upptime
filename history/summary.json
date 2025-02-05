@@ -22,19 +22,19 @@
     "url": "https://www.ulobby.eu",
     "icon": "https://icons.duckduckgo.com/ip3/www.ulobby.eu.ico",
     "slug": "ulobby-website",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "96.99%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "94.53%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.96%",
     "time": 312,
-    "timeDay": 296,
-    "timeWeek": 264,
-    "timeMonth": 261,
+    "timeDay": 309,
+    "timeWeek": 273,
+    "timeMonth": 264,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2025-02-05": 43
+      "2025-02-05": 79
     }
   },
   {
