@@ -22,7 +22,7 @@
     "url": "https://www.ulobby.eu",
     "icon": "https://icons.duckduckgo.com/ip3/www.ulobby.eu.ico",
     "slug": "ulobby-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 249,
     "timeYear": 300,
     "dailyMinutesDown": {
+      "2025-02-27": 0,
       "2025-02-05": 97
     }
   },
