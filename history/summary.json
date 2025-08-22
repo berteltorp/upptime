@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 248,
-    "timeDay": 94,
-    "timeWeek": 222,
-    "timeMonth": 215,
+    "timeDay": 182,
+    "timeWeek": 227,
+    "timeMonth": 214,
     "timeYear": 248,
     "dailyMinutesDown": {}
   },
@@ -24,17 +24,17 @@
     "slug": "ulobby-website",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "97.96%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 317,
-    "timeDay": 991,
-    "timeWeek": 701,
-    "timeMonth": 553,
+    "timeDay": 1014,
+    "timeWeek": 702,
+    "timeMonth": 557,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2025-08-21": 29,
+      "2025-08-21": 21,
       "2025-02-27": 20,
       "2025-02-05": 97
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1077,
-    "timeDay": 1419,
-    "timeWeek": 752,
+    "time": 1075,
+    "timeDay": 598,
+    "timeWeek": 758,
     "timeMonth": 721,
-    "timeYear": 1077,
+    "timeYear": 1075,
     "dailyMinutesDown": {}
   }
 ]
